@@ -4,11 +4,6 @@ if weather == 'not good':
     print ('Oh, so bad!')
 if weather == 'good':
 	print ('yeeees!')
-if weather != 'good' 'notgood':
-	print ('your answer is wrong! Please answer again' )
+if weather != 'good' and weather != 'not good':
+	print ("I'm not like your answer, please type the other  one")
 	
-
-
-
-
-
